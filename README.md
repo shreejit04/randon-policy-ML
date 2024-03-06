@@ -2,7 +2,7 @@
 
 Average number of steps for 30 episodes under each policy.
 
-naive_policy: 8.3
+naive_policy: 8.3 
 
 random_policy: 20.8
 
